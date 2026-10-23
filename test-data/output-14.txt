@@ -1,0 +1,1 @@
+SUCCESS usage: TORPEDO,<SINGLE|ALL> Unknown firing mode: 'PATRIK'
