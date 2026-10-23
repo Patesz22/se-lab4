@@ -1,0 +1,2 @@
+usage: GT4500,<PRI_CNT>,<PRI_FAIL_RATE>,<SEC_CNT>,<SEC_FAIL_RATE>
+Invalid numerical arguments passed: For input string: "macska"
